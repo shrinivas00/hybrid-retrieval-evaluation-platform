@@ -1,4 +1,4 @@
-# ReRankEval
+# RankFusionLab
 
 A production-style hybrid retrieval pipeline for RAG: **Dense Vector Search + BM25 Sparse Search → Reciprocal Rank Fusion (RRF) → LLM Reranking → Answer Generation.**
 
